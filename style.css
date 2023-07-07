@@ -79,6 +79,7 @@ body {
     position: absolute;
     right: 15%;
     top: 0%;
+    color: white;
 }
 
 @media screen and (min-width: 576px) {
